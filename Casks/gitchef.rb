@@ -1,6 +1,6 @@
 cask "gitchef" do
-  version "0.44.2"
-  sha256 "a05cdccc98295ed7eddce4277d7fa2549d59a08b22b0ed049e288100e38b9b1a"
+  version "0.45.0"
+  sha256 "319b2e3fa50ad50b946a1a316bf51e8ec0cfdfa0e45a2b2adfb576ab9c1dfb46"
 
   url "https://github.com/jcardonne/gitchef/releases/download/v#{version}/GitChef_#{version}_macOS.dmg"
   name "GitChef"
